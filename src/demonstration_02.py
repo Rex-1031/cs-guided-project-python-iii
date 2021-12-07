@@ -10,5 +10,5 @@ Examples:
 - single_number([10]) -> 10
 """
 def single_number(nums):
-    # Your code here
+    
 
